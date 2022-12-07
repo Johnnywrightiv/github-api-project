@@ -1,0 +1,20 @@
+.face-card {
+  border: 1px black dashed;
+  background-color: rgb(199, 199, 199);
+}
+
+.form-label {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.face-card p {
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.face-card img {
+  margin-bottom: 10px;
+}
